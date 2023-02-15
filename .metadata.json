@@ -1,5 +1,6 @@
 [
   {
-    "package": "covidmx"
+    "package": "covidmx",
+    "oncran": true
   }
 ]
