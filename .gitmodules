@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rodrigozepeda/rodrigozepeda.r-universe.dev
 	branch = HEAD
 [submodule "deltapif"]
 	path = deltapif
 	url = https://github.com/rodrigozepeda/deltapif
+[submodule "diseasenowcasting"]
+	path = diseasenowcasting
+	url = https://github.com/rodrigozepeda/diseasenowcasting
+[submodule "tbl.now"]
+	path = tbl.now
+	url = https://github.com/rodrigozepeda/tbl.now
