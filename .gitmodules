@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rodrigozepeda/rodrigozepeda.r-universe.dev
 	branch = HEAD
+[submodule "almanac"]
+	path = almanac
+	url = https://github.com/DavisVaughan/almanac
 [submodule "deltapif"]
 	path = deltapif
 	url = https://github.com/rodrigozepeda/deltapif
